@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Subhan-Nayyeri
+- 👀 I’m interested in data science, machine learning, deep learning, computer vision & natural language process (NLP)
+- 🌱 I’m currently learning Data Science by enrolling in a bootcamp called "Full Stack Data Science Pro"
+- 💞️ I’m actively looking for Internships / Entry-Level job role as a Data Scientist.
+- 📫 How to reach me on LinkedIn (https://www.linkedin.com/in/subhan-nayyeri-59451728a/)
